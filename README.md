@@ -14,60 +14,35 @@ Jika kita mengganti konsep waktu dengan konsep perubahan space, maka banyak feno
 
 Dengan kata lain, jika kita memahami bahwa waktu hanyalah efek samping dari perubahan dalam space, maka kita bisa mulai membangun teknologi dan sains yang tidak lagi dibatasi oleh konsep waktu, tetapi yang beroperasi langsung dengan manipulasi struktur space itu sendiri. Ini bisa menjadi kunci untuk membuka revolusi baru dalam ilmu pengetahuan, yang memungkinkan kita untuk memahami realitas dengan cara yang jauh lebih mendalam daripada yang pernah kita bayangkan sebelumnya.
 
+
 ## Persamaan Matematis
 
-\[
+```math
 t = f(S, V)
-\]
 
-\[
 dt = k \cdot dS
-\]
 
-\[
 S = \frac{1}{r^2}
-\]
 
-\[
 F = G \cdot m_1 m_2 \cdot S
-\]
 
-\[
 S' = \frac{S}{\sqrt{1 - \frac{v^2}{c^2}}}
-\]
 
-\[
 S = S_0 + k_E E + k_B B
-\]
 
-\[
 \frac{dS}{dt} = f(V, M, E, B)
-\]
 
-\[
 \int S \, dV = \text{konstan}
-\]
 
-\[
 \frac{\partial S}{\partial x} + \frac{\partial S}{\partial y} + \frac{\partial S}{\partial z} + \frac{\partial S}{\partial t} = 0
-\]
 
-\[
 \lim_{S \to 0} \frac{dS}{dt} = 0
-\]
 
-\[
 \oint \nabla S \cdot dA = \frac{M}{\epsilon_S}
-\]
 
-\[
 \Box S = \frac{8\pi G}{c^4} T_{\mu\nu}
-\]
 
-\[
 \Delta S = \lambda \nabla^2 S
-\]
 
-\[
 \oint_C \nabla S \cdot d\ell = \mu_0 J + \frac{1}{c^2} \frac{\partial S}{\partial t}
-\]
+```
