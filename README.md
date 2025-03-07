@@ -1,4 +1,4 @@
-# Theory of Spatial Dynamics | Teori Dinamika Ruang
+# Theory of Spatial Dynamics
 
 > **"Apakah waktu itu nyata? Ataukah hanya ilusi dari perubahan ruang?"**  
 
