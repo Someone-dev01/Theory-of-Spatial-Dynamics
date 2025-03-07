@@ -14,9 +14,9 @@ Dari perspektif yang tidak bergantung pada memori atau pemikiran abstrak, **semu
 
 ## 🌀 **Dimensi Keempat: Waktu yang Statis?**  
 
-Jika kita melihat konsep **dimensi keempat**, kita bisa menyadari bahwa **waktu bukanlah sesuatu yang bergerak, melainkan sesuatu yang statis.**  
+*Jika kita melihat konsep dimensi keempat, kita bisa menyadari bahwa waktu bukanlah sesuatu yang bergerak, melainkan sesuatu yang statis.* 
 
-- **Contoh sederhana:**  
+> ⚡ **Contoh sederhana:**  
 > - Saat bola ditendang, ketika ia masih di tanah, itu adalah **sekarang**.  
 > - Saat ia melayang di udara, itu juga **sekarang**.  
 > - Saat ia menyentuh tanah kembali, itu pun masih **sekarang**.  
@@ -27,11 +27,11 @@ Dalam **framework ini**, "tadi" dan "nanti" hanyalah **cara kita mengorganisir p
 
 ## 🕳 **Gravitasi & Struktur Ruang**  
 
-**Medan gravitasi yang lebih kuat bukan memperlambat waktu, melainkan mengubah struktur ruang.**  
+*Medan gravitasi yang lebih kuat bukan memperlambat waktu, melainkan mengubah struktur ruang.* 
 
-- **Efek ini dapat menjelaskan berbagai fenomena:**  
-> **Jam atom berjalan lebih lambat di medan gravitasi kuat** → bukan karena waktu berubah, tetapi karena perubahan ruang mengubah frekuensi osilasi atom.  
-> **Time dilation hanya konsekuensi dari perubahan kepadatan ruang, bukan akibat dari perubahan waktu.**  
+> ⚡ **Efek ini dapat menjelaskan berbagai fenomena:**  
+> - **Jam atom berjalan lebih lambat di medan gravitasi kuat** → bukan karena waktu berubah, tetapi karena perubahan ruang mengubah frekuensi osilasi atom.  
+> - **Time dilation hanya konsekuensi dari perubahan kepadatan ruang, bukan akibat dari perubahan waktu.**  
 
 Jika kita memahami bagaimana ruang berubah dan bagaimana perubahan ini bisa dikontrol, kita bisa menciptakan teknologi yang memungkinkan kita untuk **mengontrol gravitasi** dan bahkan **menghapus hambatan fisik** seperti gesekan dan energi kinetik.  
 
@@ -39,11 +39,11 @@ Jika kita memahami bagaimana ruang berubah dan bagaimana perubahan ini bisa diko
 
 ## 🚀 **Potensi Teknologi Masa Depan**  
 
-- **Jika struktur ruang bisa dimanipulasi, maka kita bisa membuka kemungkinan luar biasa:**  
+*Jika struktur ruang bisa dimanipulasi, maka kita bisa membuka kemungkinan luar biasa.* 
 
-> **Anti-gravitasi** → Dengan mengontrol kepadatan ruang, kita bisa menciptakan medan gravitasi buatan.  
-> **Perjalanan supercepat & teleportasi** → Mengompresi dan memperluas ruang dalam skala yang dapat dikendalikan. 
-> **Energi bebas dari perubahan ruang** → Sumber daya tanpa batas yang tidak bergantung pada bahan bakar konvensional.  
+> - **Anti-gravitasi** → Dengan mengontrol kepadatan ruang, kita bisa menciptakan medan gravitasi buatan.  
+> h **Perjalanan supercepat & teleportasi** → Mengompresi dan memperluas ruang dalam skala yang dapat dikendalikan. 
+> - **Energi bebas dari perubahan ruang** → Sumber daya tanpa batas yang tidak bergantung pada bahan bakar konvensional.  
 
 Jika kita bisa **mengganti konsep waktu dengan konsep perubahan ruang**, maka **sains & peradaban akan mencapai tingkat yang lebih tinggi.**  
 
