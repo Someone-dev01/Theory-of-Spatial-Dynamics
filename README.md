@@ -41,6 +41,7 @@ Jika kita memahami bagaimana ruang berubah dan bagaimana perubahan ini bisa diko
 
 *Jika struktur ruang bisa dimanipulasi, maka kita bisa membuka kemungkinan luar biasa.* 
 
+> ⚡ **Ramalan Kasar:**
 > - **Anti-gravitasi** → Dengan mengontrol kepadatan ruang, kita bisa menciptakan medan gravitasi buatan.  
 > - **Perjalanan supercepat & teleportasi** → Mengompresi dan memperluas ruang dalam skala yang dapat dikendalikan. 
 > - **Energi bebas dari perubahan ruang** → Sumber daya tanpa batas yang tidak bergantung pada bahan bakar konvensional.  
