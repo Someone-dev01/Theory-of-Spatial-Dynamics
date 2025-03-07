@@ -1,4 +1,4 @@
-# 🌌 Teori Dinamika Ruang  
+# Theory of Spatial Dynamics | Teori Dinamika Ruang
 
 > **"Apakah waktu itu nyata? Ataukah hanya ilusi dari perubahan ruang?"**  
 
@@ -42,7 +42,7 @@ Jika kita memahami bagaimana ruang berubah dan bagaimana perubahan ini bisa diko
 *Jika struktur ruang bisa dimanipulasi, maka kita bisa membuka kemungkinan luar biasa.* 
 
 > - **Anti-gravitasi** → Dengan mengontrol kepadatan ruang, kita bisa menciptakan medan gravitasi buatan.  
-> h **Perjalanan supercepat & teleportasi** → Mengompresi dan memperluas ruang dalam skala yang dapat dikendalikan. 
+> - **Perjalanan supercepat & teleportasi** → Mengompresi dan memperluas ruang dalam skala yang dapat dikendalikan. 
 > - **Energi bebas dari perubahan ruang** → Sumber daya tanpa batas yang tidak bergantung pada bahan bakar konvensional.  
 
 Jika kita bisa **mengganti konsep waktu dengan konsep perubahan ruang**, maka **sains & peradaban akan mencapai tingkat yang lebih tinggi.**  
