@@ -53,44 +53,95 @@ Jika kita bisa **mengganti konsep waktu dengan konsep perubahan ruang**, maka **
 ## 🔬 **Persamaan Matematis**  
 
 ```math
+\text{1. Representasi Waktu sebagai Fungsi dari Space}  
 t = f(S, V)
 ```
 ```math
-dt = k \cdot dS
+ds^2 = g_{\mu\nu} dx^\mu dx^\nu
 ```
 ```math
-S = \frac{1}{r^2}
-```
-```math
+\text{2. Hubungan Gravitasi dengan Perubahan Kepadatan Ruang}  
 F = G \cdot m_1 m_2 \cdot S
 ```
 ```math
-S' = \frac{S}{\sqrt{1 - \frac{v^2}{c^2}}}
-```
-```math
-S = S_0 + k_E E + k_B B
-```
-```math
-\frac{dS}{dt} = f(V, M, E, B)
-```
-```math
-\int S \, dV = \text{konstan}
-```
-```math
-\frac{\partial S}{\partial x} + \frac{\partial S}{\partial y} + \frac{\partial S}{\partial z} + \frac{\partial S}{\partial t} = 0
-```
-```math
-\lim_{S \to 0} \frac{dS}{dt} = 0
-```
-```math
-\oint \nabla S \cdot dA = \frac{M}{\epsilon_S}
+G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}
 ```
 ```math
 \Box S = \frac{8\pi G}{c^4} T_{\mu\nu}
 ```
 ```math
+\text{3. Efek Percepatan terhadap Kepadatan Ruang}  
+S' = \frac{S}{\sqrt{1 - \frac{v^2}{c^2}}}
+```
+```math
+\text{4. Formulasi Diferensial untuk Perubahan Ruang}  
+\frac{\partial S}{\partial t} + \nabla \cdot (S \cdot \mathbf{v}) = 0
+```
+```math
+\text{5. Relasi Densitas Ruang terhadap Energi dan Medan Elektromagnetik}  
+S = S_0 + k_E E + k_B B
+```
+```math
+\text{6. Integrasi Perubahan Struktur Ruang dalam Volume}  
+\int S \, dV = \text{konstan}
+```
+```math
+\text{7. Hukum Kekekalan Ruang dalam Sistem Tertutup}  
+\frac{\partial S}{\partial x} + \frac{\partial S}{\partial y} + \frac{\partial S}{\partial z} + \frac{\partial S}{\partial t} = 0
+```
+```math
+\text{8. Limitasi Ruang dalam Kepadatan Nol}  
+\lim_{S \to 0} \frac{dS}{dt} = 0
+```
+```math
+\text{9. Fluktuasi Ruang dalam Medan Gravitasi}  
+\oint \nabla S \cdot dA = \frac{M}{\epsilon_S}
+```
+```math
+\text{10. Relasi Ruang dan Tegangan Energi}  
+\Box S = \frac{8\pi G}{c^4} T_{\mu\nu}
+```
+```math
+\text{11. Efek Gelombang Fluktuasi Ruang}  
 \Delta S = \lambda \nabla^2 S
 ```
 ```math
+\text{12. Integral Sirkulasi Struktur Ruang dalam Sistem Dinamis}  
 \oint_C \nabla S \cdot d\ell = \mu_0 J + \frac{1}{c^2} \frac{\partial S}{\partial t}
+```
+```math
+\text{13. Variasi Struktur Ruang dalam Persamaan Lagrangian}  
+\mathcal{L} = \frac{1}{2} (\partial^\mu S \partial_\mu S) - V(S)
+```
+```math
+\text{14. Hubungan Struktur Ruang dengan Momentum Relativistik}  
+p^\mu = m S u^\mu
+```
+```math
+\text{15. Konservasi Momentum dalam Fluktuasi Ruang}  
+\frac{d}{dt} (S \cdot \mathbf{p}) = 0
+```
+```math
+\text{16. Geometri Ruang dalam Tensor Kurvatur}  
+R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R = \frac{8\pi G}{c^4} T_{\mu\nu} + \Lambda g_{\mu\nu}
+```
+```math
+\text{17. Ekspansi Ruang dalam Model Kosmologis}  
+H^2 = \frac{8\pi G}{3} \rho_S - \frac{k}{a^2} + \frac{\Lambda}{3}
+```
+```math
+\text{18. Distorsi Ruang akibat Perubahan Kepadatan Relatif}  
+\frac{d^2 S}{dt^2} + 3H \frac{dS}{dt} + \frac{dV}{dS} = 0
+```
+```math
+\text{19. Hubungan antara Energi, Massa, dan Kepadatan Ruang}  
+E = S \cdot mc^2
+```
+```math
+\text{20. Transformasi Ruang dalam Konteks Elektromagnetisme}  
+\nabla \times \mathbf{E} + \frac{\partial \mathbf{B}}{\partial t} = -\mu_0 S \mathbf{J}
+```
+```math
+\text{21. Variasi Fluktuasi Ruang dalam Medan Kuantum}  
+\langle 0 | T_{\mu\nu} | 0 \rangle = S_{\text{vacuum}}
 ```
