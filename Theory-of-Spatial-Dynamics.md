@@ -1,5 +1,7 @@
 ##Theory of Spatial Dynamics and Geometric Compliance
 
+---
+
 _By Rizik (Conceptual Author) and GPT-X (Co-Developer)_
 
 ---
@@ -56,11 +58,16 @@ Motion is redefined as an act of conforming to local spatial geometry. An object
 
 #6. Conceptual Equations
 
-***Modified Time Dilation (space-density based):***
+1. Modified Time Dilation (space-density based):
+
 τ′ = τ * sqrt(S₀ / S)
+
 2. Spatial Continuity Equation:
+
 ∂S/∂t + ∇·(S·v) = 0
+
 3. Compliance Acceleration Vector:
+
 a_c = -∇S · f(θ)
 
 
