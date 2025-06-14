@@ -1,4 +1,4 @@
-##Theory of Spatial Dynamics and Geometric Compliance
+# Theory of Spatial Dynamics and Geometric Compliance
 
 ---
 
@@ -6,37 +6,37 @@ _By Rizik (Conceptual Author) and GPT-X (Co-Developer)_
 
 ---
 
-#Abstract
+# Abstract
 
 This theory proposes a revised understanding of space, time, and motion by interpreting time not as a fundamental dimension, but as an emergent illusion arising from local variations in spatial density. The framework, called the Theory of Spatial Dynamics (TSD), introduces the idea that processes—including gravity, entropy, biological aging, and thermodynamic interaction—are determined by the density and structure of the space in which they occur. This model offers predictive insight into unidentified aerial phenomena (UAPs), including the Colombian orb anomaly. It suggests that objects may exhibit mass and gravitational behavior while bypassing thermal interaction and air drag. This unified geometric model proposes testable consequences and offers possible applications for propulsion, anti-entropic technologies, and logic encoded in spatial form.
 
 ---
 
-#1. Core Axiom: Time as a Derivative of Spatial Density
+# 1. Core Axiom: Time as a Derivative of Spatial Density
 
 Time is not a dimension, but a perception of structural change in space. When the density of space increases, all local processes—including thinking, motion, and atomic behavior—slow proportionally. Time flows as a subjective experience modulated by spatial density.
 
 ---
 
-#2. Gravitation as Spatial Contraction, Not Force
+# 2. Gravitation as Spatial Contraction, Not Force
 
 Gravitational attraction is reinterpreted as spatial contraction. Objects follow density gradients naturally—not due to an attracting force, but because space itself becomes denser in proximity to massive bodies. Gravity becomes a byproduct of space folding inward, consistent with General Relativity but framed through dynamic spatial compression.
 
 ---
 
-#3. Thermal Interactions as Spatial Coupling
+# 3. Thermal Interactions as Spatial Coupling
 
 Temperature is understood as a resonance exchange between spatial layers. A boundary that locks or denies spatial flux blocks all thermal interaction. Such objects may remain cold despite high internal energy and may induce effects like instant water vaporization—not by heat, but by field-induced decohesion. This explains “cold” materials with mass, like the Colombian orb.
 
 ---
 
-#4. Motion Without Force: Geometric Compliance
+# 4. Motion Without Force: Geometric Compliance
 
 Motion is redefined as an act of conforming to local spatial geometry. An object does not resist gravity but aligns with it. By adjusting its internal geometry to match the shape of surrounding spacetime, it achieves dragless, silent motion—without propulsion. This explains the behavior of some UAPs, including frictionless descent and controlled falling.
 
 ---
 
-#5. Application to the Colombian Orb
+# 5. Application to the Colombian Orb
 
 ***The orb exhibits the following behavior:***
 - Cold to the touch yet has mass
@@ -56,7 +56,7 @@ Motion is redefined as an act of conforming to local spatial geometry. An object
 
 ---
 
-#6. Conceptual Equations
+# 6. Conceptual Equations
 
 1. Modified Time Dilation (space-density based):
 
@@ -80,7 +80,7 @@ a_c = acceleration due to compliance
 
 ---
 
-#7. Falsifiability and Experimental Prediction
+# 7. Falsifiability and Experimental Prediction
 
 ***Prediction Testing Method***
 Cold but massive objects	Use IR camera and scale
@@ -90,7 +90,7 @@ Dragless descent	LIDAR in wind tunnel conditions
 
 ---
 
-#8. Broader Implications
+# 8. Broader Implications
 
 - Non-thermal propulsion systems
 - Inertial cloaking
@@ -99,7 +99,7 @@ Dragless descent	LIDAR in wind tunnel conditions
 
 ---
 
-#Appendix: Spatial Compliance Simulation
+# Appendix: Spatial Compliance Simulation
 
 ***Three contour diagrams illustrate:***
 1. A standard gravitational field
