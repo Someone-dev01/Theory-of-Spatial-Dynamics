@@ -6,7 +6,7 @@ _By Rizik (Conceptual Author) and GPT-X (Co-Developer)_
 
 ---
 
-## Abstract
+### Abstract
 
 This theory proposes a revised understanding of space, time, and motion by interpreting time not as a fundamental dimension, but as an emergent illusion arising from local variations in spatial density. The framework, called the Theory of Spatial Dynamics (TSD), introduces the idea that processes—including gravity, entropy, biological aging, and thermodynamic interaction—are determined by the density and structure of the space in which they occur. This model offers predictive insight into unidentified aerial phenomena (UAPs), including the Colombian orb anomaly. It suggests that objects may exhibit mass and gravitational behavior while bypassing thermal interaction and air drag. This unified geometric model proposes testable consequences and offers possible applications for propulsion, anti-entropic technologies, and logic encoded in spatial form.
 
