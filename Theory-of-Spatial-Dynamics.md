@@ -83,6 +83,7 @@ a_c = -∇S · f(θ)
 ### 7. Falsifiability and Experimental Prediction
 
 ***Prediction Testing Method***
+
 Cold but massive objects	Use IR camera and scale
 Water vaporization without heating	High-speed spectroscopy
 Local time distortion	Atomic clock drift near object
